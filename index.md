@@ -1,7 +1,11 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Namaste! and welcome to my blog. I am Vikram and Coding, Workout, Reading books constitute most of my day and also Family Time :)
+
+View the list of my favourite books by category below
+1. Machine Learning, Statistics, Deep Learning, Data Visualization
+2. Engineering, System Design
+3. Productivity, Self-Improvement
+4. Entrepreneurship and Leadership, Design Thinking
+5. Geo Politics
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
